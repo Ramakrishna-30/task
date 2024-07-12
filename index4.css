@@ -1,0 +1,42 @@
+.c-box{
+       margin-top: 50px;
+       color: aqua;
+       background-color: darksalmon;
+       
+}
+.button{
+    margin-left: 20px;
+}
+
+.p-wd{
+    margin-top: 30px;
+}
+
+.d-container{
+    height: 400px;
+    width: 600px;
+
+    background-image: url(image/360_F_580527969_cnJcypRSgkAdvenvmUJL8RwdIvXMOTvE.jpg); 
+    background-size: cover;
+}
+.radio{
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 30px;
+}
+.li-list{
+    margin: 2px;
+    padding: 4px;
+    display: inline;
+}
+
+.d-container2{
+    background-color: darkgray;
+    height:30px;
+    margin-top: 20px;
+}
+
+
+
+
+
